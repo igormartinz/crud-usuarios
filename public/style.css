@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(59, 97, 201);
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+
+.col-acoes{
+    width: 1%;
+    white-space: nowrap;
+}
